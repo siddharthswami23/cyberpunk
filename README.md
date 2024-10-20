@@ -17,32 +17,13 @@ Check out the live version here: [Cyberpunk by Sid](https://cyberpunkbysid.verce
 
 ### Tech Stack
 
-- **Vite**  
-  <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="120" height="40"/>
-
-- **Three.js**  
-  <img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/logo/threejs.svg" alt="Three.js" width="120" height="40"/>
-
-- **HTML**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Html5_Shiny.svg" alt="HTML" width="120" height="40"/>
-
-- **CSS**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="120" height="40"/>
-
-- **Tailwind CSS**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="120" height="40"/>
-
-- **JavaScript (JS)**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="120" height="40"/>
-
-- **React.js**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="120" height="40"/>
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/cyberpunk-by-sid.git
+```html
+<div style="display: flex; gap: 10px;">
+  <span style="padding: 5px 10px; border-radius: 5px; background-color: #646cff; color: white;">Vite</span>
+  <span style="padding: 5px 10px; border-radius: 5px; background-color: #000000; color: white;">Three.js</span>
+  <span style="padding: 5px 10px; border-radius: 5px; background-color: #e34c26; color: white;">HTML</span>
+  <span style="padding: 5px 10px; border-radius: 5px; background-color: #264de4; color: white;">CSS</span>
+  <span style="padding: 5px 10px; border-radius: 5px; background-color: #38bdf8; color: white;">Tailwind CSS</span>
+  <span style="padding: 5px 10px; border-radius: 5px; background-color: #f7df1e; color: black;">JavaScript</span>
+  <span style="padding: 5px 10px; border-radius: 5px; background-color: #61dafb; color: black;">React.js</span>
+</div>
