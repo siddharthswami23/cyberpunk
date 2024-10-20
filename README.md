@@ -1,29 +1,29 @@
 # Cyberpunk by Sid
 
-This is a simple React-based frontend page featuring a 3D model of a damaged helmet using **Three.js**. The page includes basic OrbitControls for minimal interaction.
-
 ## Live Demo
 
-Check out the live version here: [Cyberpunk by Sid](https://cyberpunkbysid.vercel.app)
+You can view a live demo of the Cyberpunk application here:
+[Live Demo Link](https://cyberpunkbysid.vercel.app)
+
+## Tech Stacks Used
+
+- **Frontend**:
+  ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## Introduction
+
+Cyberpunk by Sid is a simple 3D visualization web application. It renders a 3D model of a damaged helmet using **Three.js** and **React.js**. The user can interact with the model using minimal OrbitControls for rotating the helmet. The page is single and static with no additional content.
 
 ## Features
 
-- **Three.js Integration**: Render a 3D model in the browser.
-- **Damaged Helmet Model**: A GLB model of a damaged helmet is displayed.
-- **OrbitControls**: Minimal 3D interaction for rotating the model.
-- **Single Page**: No additional content or navigation—just the 3D scene.
-
-## Technologies Used
-
-### Tech Stack
-
-```html
-<div style="display: flex; gap: 10px;">
-  <span style="padding: 5px 10px; border-radius: 5px; background-color: #646cff; color: white;">Vite</span>
-  <span style="padding: 5px 10px; border-radius: 5px; background-color: #000000; color: white;">Three.js</span>
-  <span style="padding: 5px 10px; border-radius: 5px; background-color: #e34c26; color: white;">HTML</span>
-  <span style="padding: 5px 10px; border-radius: 5px; background-color: #264de4; color: white;">CSS</span>
-  <span style="padding: 5px 10px; border-radius: 5px; background-color: #38bdf8; color: white;">Tailwind CSS</span>
-  <span style="padding: 5px 10px; border-radius: 5px; background-color: #f7df1e; color: black;">JavaScript</span>
-  <span style="padding: 5px 10px; border-radius: 5px; background-color: #61dafb; color: black;">React.js</span>
-</div>
+1. **Three.js Integration**: Render 3D models directly within the browser.
+2. **OrbitControls**: Basic interaction with the 3D model (rotation).
+3. **GLB Model**: Display of a damaged helmet GLB model.
+4. **Vite Build**: Fast bundling and development through Vite.
+5. **Tailwind CSS Styling**
