@@ -1,6 +1,6 @@
 # Cyberpunk by Sid
 
-This is a simple React-based frontend page featuring a 3D model of a damaged helmet using **Three.js**. The page includes basic OrbitControls for limited interaction.
+This is a simple React-based frontend page featuring a 3D model of a damaged helmet using **Three.js**. The page includes basic OrbitControls for minimal interaction.
 
 ## Live Demo
 
@@ -15,9 +15,35 @@ Check out the live version here: [Cyberpunk by Sid](https://cyberpunkbysid.verce
 
 ## Technologies Used
 
-- **React**: JavaScript library for building user interfaces.
-- **Three.js**: JavaScript 3D library to render the helmet model.
-- **OrbitControls**: Basic controls for rotating the model.
+### Tech Stack
+
+- **Vite**
+  
+  ![Vite](https://vitejs.dev/logo.svg)
+  
+- **Three.js**
+  
+  ![Three.js](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Logo.svg/512px-Three.js_Logo.svg.png)
+  
+- **HTML**
+  
+  ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)
+  
+- **CSS**
+  
+  ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/512px-CSS3_logo_and_wordmark.svg.png)
+  
+- **Tailwind CSS**
+  
+  ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png)
+  
+- **JavaScript (JS)**
+  
+  ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/512px-JavaScript-logo.png)
+  
+- **React.js**
+  
+  ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png)
 
 ## Installation
 
