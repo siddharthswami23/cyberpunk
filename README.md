@@ -18,25 +18,25 @@ Check out the live version here: [Cyberpunk by Sid](https://cyberpunkbysid.verce
 ### Tech Stack
 
 - **Vite**  
-  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="50"/>
+  <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="120" height="40"/>
 
 - **Three.js**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Logo.svg/512px-Three.js_Logo.svg.png" alt="Three.js" width="50"/>
+  <img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/logo/threejs.svg" alt="Three.js" width="120" height="40"/>
 
 - **HTML**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Html5_Shiny.svg" alt="HTML" width="120" height="40"/>
 
 - **CSS**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/512px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="120" height="40"/>
 
 - **Tailwind CSS**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="120" height="40"/>
 
 - **JavaScript (JS)**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/512px-JavaScript-logo.png" alt="JavaScript" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="120" height="40"/>
 
 - **React.js**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React.js" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="120" height="40"/>
 
 ## Installation
 
