@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body>
+    <div class="main w-full ">
+      <div class="w-full overflow-hidden">
+        <div
+          class="absolute w-full h-[10vh] mt-3 flex items-center justify-between px-5 overflow-hidden z-[2]"
+        >
+          <img
+            class="mix-blend-light scale-x-80 filter saturate-150 contrast-125"
+            src="./public/logo.png"
+            alt=""
+          />
+          <div class="flex gap-5 text-white capitalize text-xl">
+            <a href="" class="hover:text-blue-500">home</a>
+            <a href="" class="hover:text-blue-500">about</a>
+            <a href="" class="hover:text-blue-500">portfolio</a>
+            <a href="" class="hover:text-blue-500">contact</a>
+          </div>
+        </div>
+        <img
+          class="absolute w-full h-screen top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 mix-blend-screen scale-x-80 filter saturate-150 contrast-125"
+          src="https://i.redd.it/3d-rendered-the-cyberpunk-logo-using-blender-v0-khopj82wqee91.png?width=1920&format=png&auto=webp&s=f42dbd8f5c04aedb9ba9291c1ba4d679029cc1f3"
+          alt=""
+        />
+       <canvas class="z-[3]" id="canvas"></canvas>
+      </div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+  </body>
+</html>
